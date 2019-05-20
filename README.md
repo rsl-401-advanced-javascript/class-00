@@ -1,47 +1,19 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+Deployment
 =================================================
 
 ## Project Name
+class-00
 
-### Author: Student/Group Name
+### Author: Rory Letteney
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* [submission PR](https://github.com/rsl-401-advanced-javascript/class-00/pull/1)
+* [heroku](https://shrouded-shelf-12795.herokuapp.com/)
   
 #### Tests
 * How do you run tests?
+* `npm test`
 * What assertions were made?
+* `No idea what this means.`
 * What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
+* `Not sure.`

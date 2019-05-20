@@ -9,6 +9,7 @@ class-00
 ### Links and Resources
 * [submission PR](https://github.com/rsl-401-advanced-javascript/class-00/pull/1)
 * [heroku](https://shrouded-shelf-12795.herokuapp.com/)
+* [travis](https://travis-ci.com/rsl-401-advanced-javascript/class-00)
   
 #### Tests
 * How do you run tests?
